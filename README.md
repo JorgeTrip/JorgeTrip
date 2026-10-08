@@ -1,5 +1,5 @@
 # Jorge Osvaldo Tripodi
-### Analista Desarrollador Universitario de Sistemas · UTN FRBA
+### Analista Desarrollador Universitario de Sistemas de Información · UTN FRBA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgeotripodi/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=netlify&logoColor=white)](https://jorgetripodi.netlify.app/)
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre Mí
 
-Soy **Analista Desarrollador Universitario de Sistemas (UTN FRBA)** y estudiante avanzado de **Ingeniería en Sistemas de Información**.
+Soy **Analista Desarrollador Universitario de Sistemas de Información (UTN FRBA)** y estudiante avanzado de **Ingeniería en Sistemas de Información**.
 
 Combino una sólida base académica y técnica con una trayectoria de **más de 25 años en el sector salud**, lo que me ha aportado una gran capacidad de análisis, gestión de procesos y resolución de problemas en entornos críticos. Asimismo, mi experiencia como fotógrafo profesional freelance ha perfeccionado mi atención a la estética visual, la usabilidad (UX/UI) y la prolijidad arquitectónica.
 
@@ -48,7 +48,7 @@ Proyectos presentados en mi [sitio web profesional](https://jorgetripodi.netlify
 
 ## 🎓 Formación Académica & Certificaciones
 
-- **Analista Universitario de Sistemas** *(Título obtenido)* – Universidad Tecnológica Nacional (UTN FRBA).
+- **Analista Desarrollador Universitario de Sistemas de Información** *(Título obtenido)* – Universidad Tecnológica Nacional (UTN FRBA).
 - **Ingeniería en Sistemas de Información** *(En curso)* – UTN FRBA.
 - **Fundamentos de Diseño UX/UI** – Programa Talento Tech (2024).
 - **Desarrollador Full Stack** – Programa Codo a Codo 4.0 (2022).
